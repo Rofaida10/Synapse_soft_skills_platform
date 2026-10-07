@@ -24,5 +24,5 @@
 * **Overall Meaning:** Synapse connects the **right person to the right feedback, resources, people, and opportunities for growth**.
 
 ## Project links:
-* [View Synapse sitemap & ia](https://www.figma.com/board/1wEsh5WMXYng8p9bmv6O8z/Untitled?node-id=0-1&t=x0BekP78n5Wgceb0-1)
+* [View Synapse sitemap & IA](https://www.figma.com/board/89vQNHtqVxrujQkxI4bJmP/Synapse?node-id=0-1&t=zwdYBlq8zv6c1oFi-1)
 * [View Synapse project](https://drive.google.com/drive/folders/1nLnIN3G3K5fSxhuFzkqTAPonNY9SV96o?usp=sharing)

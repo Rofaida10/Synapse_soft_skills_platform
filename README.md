@@ -15,17 +15,14 @@
 
 ## Why “Synapse”?
 
-The name **Synapse** represents the idea of **connection, communication, and continuous learning**.
+* **Neural Connection:** A synapse is the connection between neurons, reflecting the AI and neural-network foundation of the platform.
+* **User ↔ AI:** Connects users with AI for practice, assessment, and personalized feedback.
+* **User ↔ Human Evaluators:** Connects users with real human moderators/evaluators for professional feedback.
+* **User ↔ Courses:** Connects users with courses tailored to their weaknesses and learning needs.
+* **User ↔ Community:** Connects learners with a community where they can share, interact, and learn from others.
+* **Core Concept:** The name represents **connection, communication, and continuous learning**.
+* **Overall Meaning:** Synapse connects the **right person to the right feedback, resources, people, and opportunities for growth**.
 
-In neuroscience, a synapse is the connection through which neurons communicate and exchange information. This concept strongly reflects the core idea behind our platform: **connecting users with the right resources, people, and technology to help them grow.**
-
-Synapse creates connections between:
-
-* **Users & AI** — enabling personalized practice, assessment, and feedback.
-* **Users & Human Evaluators** — providing access to real human guidance and professional evaluation.
-* **Users & Learning Content** — connecting users with courses that address their specific weaknesses and needs.
-* **Users & Community** — creating a space where people can share knowledge, experiences, and learn from one another.
-
-The name also has a direct connection to the technology behind the platform. **AI systems and neural networks are inspired by the way biological neurons process and communicate information**, making “Synapse” a natural bridge between the platform's technological foundation and its human-centered purpose.
-
-Ultimately, **Synapse is about creating meaningful connections that turn feedback and knowledge into growth.**
+## Project links:
+[View Synapse sitemap & ia]([https://www.figma.com/...](https://www.figma.com/board/1wEsh5WMXYng8p9bmv6O8z/Untitled?node-id=0-1&t=x0BekP78n5Wgceb0-1))
+[View Synapse project](https://drive.google.com/drive/folders/1nLnIN3G3K5fSxhuFzkqTAPonNY9SV96o?usp=sharing)

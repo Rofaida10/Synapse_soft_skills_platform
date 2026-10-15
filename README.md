@@ -26,3 +26,10 @@
 ## Project links:
 * [View Synapse sitemap & IA](https://www.figma.com/board/89vQNHtqVxrujQkxI4bJmP/Synapse?node-id=0-1&t=zwdYBlq8zv6c1oFi-1)
 * [View Synapse project](https://drive.google.com/drive/folders/1nLnIN3G3K5fSxhuFzkqTAPonNY9SV96o?usp=sharing)
+
+ ##Team members:
+*  روفيدة يسري فراج السيد (Team leader)
+*  سلمى سمير حمدي محمود
+*  نور أحمد محمد الفاروق عبد العظيم
+*  يوستينا سعيد بشاره
+ساره عمرو السيد رضوان

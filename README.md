@@ -28,8 +28,12 @@
 * [View Synapse project](https://drive.google.com/drive/folders/1nLnIN3G3K5fSxhuFzkqTAPonNY9SV96o?usp=sharing)
 
  ##Team members:
-*  روفيدة يسري فراج السيد (Team leader)
-*  سلمى سمير حمدي محمود
-*  نور أحمد محمد الفاروق عبد العظيم
-*  يوستينا سعيد بشاره
-ساره عمرو السيد رضوان
+*  روفيده يسري فراج السيد (Team leader)
+*  سلمى سمير حمدي محمود (Organizer)
+*  نور أحمد محمد الفاروق عبد العظيم (Creative & Critical thinking)
+*  يوستينا سعيد بشارة  (Researcher)
+*  ساره عمرو السيد رضوان (Team speaker)
+*  
+## Technical instructor:
+* د. ايمان عبد اللطيف
+

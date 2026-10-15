@@ -27,7 +27,7 @@
 * [View Synapse sitemap & IA](https://www.figma.com/board/89vQNHtqVxrujQkxI4bJmP/Synapse?node-id=0-1&t=zwdYBlq8zv6c1oFi-1)
 * [View Synapse project](https://drive.google.com/drive/folders/1nLnIN3G3K5fSxhuFzkqTAPonNY9SV96o?usp=sharing)
 
- ##Team members:
+ ## Team members:
 *  روفيده يسري فراج السيد (Team leader)
 *  سلمى سمير حمدي محمود (Organizer)
 *  نور أحمد محمد الفاروق عبد العظيم (Creative & Critical thinking)

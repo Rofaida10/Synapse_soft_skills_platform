@@ -32,7 +32,7 @@
 *  سلمى سمير حمدي محمود (Organizer)
 *  نور أحمد محمد الفاروق عبد العظيم (Creative & Critical thinking)
 *  يوستينا سعيد بشارة  (Researcher)
-*  ساره عمرو السيد رضوان (Team speaker)
+*  ساره عمرو السيد رضوان (Research and development)
 *  
 ## Technical instructor:
 * د. ايمان عبد اللطيف
